@@ -69,7 +69,7 @@ void draw() {
 }
 ```
 
-### Saturação
+### Matiz
 ```
 int barWidth = 20;
 int lastBar = -1;
